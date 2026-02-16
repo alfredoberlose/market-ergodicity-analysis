@@ -19,9 +19,3 @@ The analysis is based on the comparison of two different metrics:
 2. **Temporal Mean (Rolling):** A 1-year (252 days) rolling average of log returns. It represents the "local" or current behavior of the market.
 
 When the **Difference** between these two exceeds a statistical threshold (±1 Standard Deviation), the market is considered to be in a **Non-Ergodic state**.
-
-## Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/market-ergodicity-analysis.git](https://github.com/YOUR_USERNAME/market-ergodicity-analysis.git)
